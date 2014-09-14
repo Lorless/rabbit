@@ -1,0 +1,16 @@
+{
+  "name": "Rabbit",
+  "version": "0.1.0",
+  "author": "Jack Boyce",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-notify": "^0.3.1",
+    "matchdep": "*"
+  },
+  "dependencies": {
+    "grunt-contrib-imagemin": "^0.8.0"
+  }
+}
